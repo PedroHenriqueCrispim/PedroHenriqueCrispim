@@ -29,8 +29,6 @@
 </div>
  
 
-![snake gif](https://github.com/PedroHenriqueCrispim/PedroHenriqueCrispim/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
