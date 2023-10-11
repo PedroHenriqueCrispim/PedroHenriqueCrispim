@@ -1,16 +1,12 @@
 <h1 align="center">Olá 👋, sou Pedro Crispim</h1>
 <h3 align="center">Sou Engenheiro de Software</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=pedrohenriquecrispim&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohenriquecrispim" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquecrispim" alt="pedrohenriquecrispim" /></a > </p>
-
-- 📫 Como entrar em contato comigo **teixerahac@gmail.com**
+- 📫 Como entrar em contato comigo **teixerahac@gmail.com **
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pedro henrique crispim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro henrique crispim" height="30" width="40" /></a> <a href
-= "https://instagram.com/pedrinho__crispim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src /images/icons/Social/instagram.svg" alt="pedrinho__crispim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro henrique crispim" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="pedro henrique crispim" height="30" width="40" /></a>
+<a href="https://instagram.com/pedrinho__crispim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/ instagram.svg" alt="pedrinho__crispim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pedro henrique crispim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pedro henrique crispim" height="30" width="40" /></a> </p>
 <
 
